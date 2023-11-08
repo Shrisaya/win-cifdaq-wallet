@@ -1,8 +1,0 @@
-version: 1.0.1
-files:
-  - url: cifdaq-wallet-setup-1.0.1.exe
-    sha512: A61qssf9iEZ27GmRTEjI8kzgPBumQtm7C/9AaJ3uWBmm509wPBCZm/FFsKBLFRPTSFEAzxGaeC8qRtCsnjutVQ==
-    size: 83691531
-path: cifdaq-wallet-setup-1.0.1.exe
-sha512: A61qssf9iEZ27GmRTEjI8kzgPBumQtm7C/9AaJ3uWBmm509wPBCZm/FFsKBLFRPTSFEAzxGaeC8qRtCsnjutVQ==
-releaseDate: '2023-11-07T14:06:44.606Z'
